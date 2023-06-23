@@ -17,11 +17,5 @@
 </a>
 </p>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bash,blenderm,	
-,c,cs,cpp,cloudflare,css,dart,discord,docker,electron,firebase,flutter,gcp,git,github,githubactions,gitlab,go,html,idea,ai,ipfs,java,js,kotlinlinux,lua,misskey,mongodb,mysql,ngnix,nodejs,ps,php,powershell,pr,py,replit,ruby,rust,sass,sqlite,stackoverflow,svg,swift,tensorflow,twitter,unity,unreal,visualstudio,vscode,vue,wordpress,xd" />
-  </a>
-</p>
-
 ### NowPlaying
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aw7xf3pwmtt1qj2mjizeerc0s&cover_image=true&theme=default&show_offline=false&background_color=d6c8f9&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=aw7xf3pwmtt1qj2mjizeerc0s&redirect=true)
