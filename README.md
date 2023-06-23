@@ -18,7 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,aws,azure,bash,blenderm,	
 ,c,cs,cpp,cloudflare,css,dart,discord,docker,electron,firebase,flutter,gcp,git,github,githubactions,gitlab,go,html,idea,ai,ipfs,java,js,kotlinlinux,lua,misskey,mongodb,mysql,ngnix,nodejs,ps,php,powershell,pr,py,replit,ruby,rust,sass,sqlite,stackoverflow,svg,swift,tensorflow,twitter,unity,unreal,visualstudio,vscode,vue,wordpress,xd" />
   </a>
