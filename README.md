@@ -18,4 +18,4 @@
 </p>
 
 ### NowPlaying
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aw7xf3pwmtt1qj2mjizeerc0s&cover_image=true&theme=default&show_offline=false&background_color=d6c8f9&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=aw7xf3pwmtt1qj2mjizeerc0s&redirect=true)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000976.4a778f0e7418403d8d86daede79ec335.0322)](https://github.com/rayriffy/apple-music-github-profile)
